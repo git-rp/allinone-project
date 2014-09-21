@@ -1,0 +1,6 @@
+alf_data_dev
+target
+tomcat
+solr.log
+solr_home
+runner/solr.log.*
